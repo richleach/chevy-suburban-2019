@@ -135,7 +135,42 @@ export default function Home() {
                                    }}/>
                         </div>
                         <br/>
-
+                        <div className="flex items-center justify-center">
+                            <Image src="/images/cf01.png" width={872} height={1132} alt="Car Fax 01"
+                                   style={{
+                                       borderRadius: "20px",
+                                       border: "none",
+                                       boxShadow: "0 0 0 2px rgba(0,0,0,1)"
+                                   }}/>
+                        </div>
+                        <br/>
+                        <div className="flex items-center justify-center">
+                            <Image src="/images/cf02.png" width={872} height={1178} alt="Car Fax 02"
+                                   style={{
+                                       borderRadius: "20px",
+                                       border: "none",
+                                       boxShadow: "0 0 0 2px rgba(0,0,0,1)"
+                                   }}/>
+                        </div>
+                        <br/>
+                        <div className="flex items-center justify-center">
+                            <Image src="/images/cf03.png" width={872} height={1178} alt="Car Fax 03"
+                                   style={{
+                                       borderRadius: "20px",
+                                       border: "none",
+                                       boxShadow: "0 0 0 2px rgba(0,0,0,1)"
+                                   }}/>
+                        </div>
+                        <br/>
+                        <div className="flex items-center justify-center">
+                            <Image src="/images/cf04.png" width={872} height={1178} alt="Car Fax 04"
+                                   style={{
+                                       borderRadius: "20px",
+                                       border: "none",
+                                       boxShadow: "0 0 0 2px rgba(0,0,0,1)"
+                                   }}/>
+                        </div>
+                        <br/>
                     </div>
 
 
