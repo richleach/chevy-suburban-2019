@@ -22,7 +22,6 @@ export default function Home() {
                 <div className="bg-gray-100 w-full max-w-4xl p-4 rounded-md shadow-md">
                     <h2 className="text-2xl font-semibold mb-4 text-center">
                         2019 Chevy Suburban ½ Ton Z71 Midnight Edition Luxury Package
-
                     </h2>
                     <div className="p-3">
                         <ul>
@@ -34,9 +33,117 @@ export default function Home() {
                             <li>Leather throughout</li>
                             <li>Heated, adjustable mid-row captain chairs</li>
                             <li>Too much to list, see window sticker!</li>
-                            <li>$47,500.00</li>
+                            <li>$45,500.00</li>
                         </ul>
                         <br/><br/>
+
+                        <div>
+                            <h3 className="text-xl font-semibold mb-4 text-center">
+                                WINDOW STICKER
+                            </h3>
+                            <span className="text-lg">MECHANICAL</span><br/>
+                            &middot; 5.3L V8 ECOTEC3 Engine<br/>
+                            &middot; 6SPD automatic transmission<br/>
+                            &middot; Fully automatic locking rear differential<br/>
+                            &middot; Premium ride suspension<br/>
+                            &middot; Engine oil cooling system<br/>
+                            &middot; Rear park assist<br/>
+                            &middot; Trailering equipment<br/>
+                            &middot; 4 Wheel anti-lock disc brakes<br/>
+                            &middot; Transfer case single speed<br/>
+                            &middot; DuraLife brake rotors<br/>
+                        </div>
+
+                        <div className="mt-3">
+                            <span className="text-lg">SAFETY &amp; SECURITY</span><br/>
+                            &middot; Forward collision alert<br/>
+                            &middot; Lane keep assist with lane departure warning<br/>
+                            &middot; Low speed forward auto braking<br/>
+                            &middot; Rear vision camera<br/>
+                            &middot; Tire pressure monitoring system (excluding spare tire)<br/>
+                            &middot; Airbags, Frontal and side impact for driver and front passenger, driver seat
+                            mounted
+                            side-impact FRT center; head curtain for all outboard seating positions<br/>
+                            &middot; Theft deterrent system<br/>
+                            &middot; STABILITRAK electronic stability control system<br/>
+                        </div>
+
+                        <div className="mt-3">
+                            <span className="text-lg">EXTERIOR</span><br/>
+                            &middot; Intellibeam headlamps<br/>
+                            &middot; Rain sensing wipers<br/>
+                            &middot; Power heated outside mirrors<br/>
+                            &middot; Remote keyless entry<br/>
+                            &middot; 17” Steel spare tire<br/>
+                            &middot; Power rear lift gate with programmable height setting<br/>
+                        </div>
+                        <div className="mt-3">
+                            <span className="text-lg">INTERIOR</span><br/>
+                            &middot; Heated leather appointed front bucket seats<br/>
+                            &middot; Driver seat and pedal memory settings<br/>
+                            &middot;  Driver and front passenger power seat adjuster<br/>
+                            &middot; Remote vehicle start<br/>
+                            &middot;  Express down, express up, power windows<br/>
+                            &middot;  Auto dimming inside mirror<br/>
+                            &middot; Leather wrap steering wheel<br/>
+                            &middot; Steering wheel controls<br/>
+                            &middot; Tri-zone automatic climate control<br/>
+                            &middot; 110 volt AC power outlet<br/>
+                            &middot; Universal home remote<br/>
+                            &middot; Bose premium audio system<br/>
+                        </div>
+                        <div className="mt-3">
+                            <span className="text-lg">CONNECTIVITY FEATURES</span><br/>
+                            &middot; OnStar services capable (subject to terms)<br/>
+                            &middot; 4G LTE WiFi hotspot capable (subject to terms)<br/>
+                            &middot; Chevrolet information system with 8” diagonal color touchscreen voice recognition
+                            Bluetooth<br/>
+                            &middot; audio streaming Apple Carplay & Android Auto capable, In-vehicle apps capable<br/>
+                            &middot; Sirius XM capable (subject to terms)<br/>
+                        </div>
+                        <div className="mt-3">
+                            <span className="text-lg">OPTIONS (may replace factory options)
+                            SUN, ENTERTAINMENT, DESTINATION PACKAGE:</span><br/>
+                            &middot; Power sunroof<br/>
+                            &middot; Chevrolet information system with navigation<br/>
+                            &middot; Rear seat entertainment system<br/>
+                        </div>
+                        <div className="mt-3">
+                            <span className="text-lg">LUXURY PACKAGE</span><br/>
+                            &middot; Seats, 3rd row 60/40 split-bench, power fold<br/>
+                            &middot; Passive entry system including remote keyless entry<br/>
+                            &middot; Keyless start<br/>
+                            &middot; Power heated outside mirror with turn signal indicator<br/>
+                            &middot; Rear fascia trailer hitch closeout, body color<br/>
+                            &middot; Heated second row seats<br/>
+                            &middot; Steering column, power tilt and telescopic<br/>
+                            &middot; Front fog lamps<br/>
+                            &middot; Hands free lift gate<br/>
+                            &middot; Front and rear park assist<br/>
+                            &middot; Rear cross traffic alert<br/>
+                            &middot; Lane change alert with side blind zone alert<br/>
+                            &middot; Heated steering wheel<br/>
+                        </div>
+                        <div className="mt-3">
+                            <span className="text-lg">Z71 MIDNIGHT EDITION</span><br/>
+                            &middot; Skid plate package<br/>
+                            &middot; 18” Black painted aluminum tires, all terrain<br/>
+                            &middot; Black tubular assist steps<br/>
+                            &middot; Recovery hooks<br/>
+                            &middot; 3.42 Rear axle ratio<br/>
+                            &middot; Automatic active 2-speed transfer case<br/>
+                            &middot; Hill descent control<br/>
+                            &middot; High capacity air cleaner<br/>
+                            &middot; Black bow-ties, front and rear<br/>
+                            &middot; Z71 Grille, Decal on cluster, pillar and lift gate badge<br/>
+                            &middot; Black roof rack<br/>
+                            &middot; Seats, 2nd row bucket, power<br/>
+                            &middot; Wheel locks<br/>
+                        </div>
+                        <br/><br/>
+                        <h3 className="text-xl font-semibold mb-4 text-center">
+                            PHOTOS &amp; SUPPORTING DOCUMENTS
+                        </h3>
                         <div className="flex items-center justify-center">
                             <Image src="/images/frontLeft.png" width={628} height={467} alt="Front Left"
                                    style={{
@@ -145,15 +252,7 @@ export default function Home() {
                                        boxShadow: "0 0 0 2px rgba(0,0,0,1)"
                                    }}/>
                         </div>
-                        <br/>
-                        <div className="flex items-center justify-center">
-                            <Image src="/images/sticker01.png" width={859} height={463} alt="Sticker"
-                                   style={{
-                                       borderRadius: "20px",
-                                       border: "none",
-                                       boxShadow: "0 0 0 2px rgba(0,0,0,1)"
-                                   }}/>
-                        </div>
+
                         <br/>
                         <div className="flex items-center justify-center">
                             <Image src="/images/cf01.png" width={872} height={1132} alt="Car Fax 01"
