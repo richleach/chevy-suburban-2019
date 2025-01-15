@@ -21,26 +21,25 @@ export default function Home() {
             <div className="flex-grow flex flex-col items-center  w-full p-6">
                 <div className="bg-gray-100 w-full max-w-4xl p-4 rounded-md shadow-md">
                     <h2 className="text-2xl font-semibold mb-4 text-center">
-                        2019 Chevy Suburban ½ Ton Z71 Midnight Edition Luxury Package
+                        2019 Chevy Suburban LOW MILES Z71 Midnight Edition Luxury Package
                     </h2>
                     <div className="p-3">
-                        <ul>
-                            <li>32,300 MILES</li>
-                            <li>ORIGINAL OWNER</li>
-                            <li>New KO2s</li>
-                            <li>New WeatherTech mats</li>
-                            <li>2 TV screens, sunroof</li>
-                            <li>Leather throughout</li>
-                            <li>Heated, adjustable mid-row captain chairs</li>
-                            <li>Too much to list, see window sticker!</li>
-                            <li>$45,500.00</li>
-                        </ul>
+                        <div className="text-center">
+                        32,200 MILES (Yes, 32,200!!)<br/>
+                        ORIGINAL OWNER<br/>
+                        LOADED!!<br/>
+                        New KO2s<br/>
+                        New WeatherTech mats<br/>
+                        2 TV screens, sunroof<br/>
+                        Leather throughout<br/>
+                        Heated, adjustable mid-row captain chairs<br/>
+                        Garage kept, gorgeous inside and out! Needs nothing - XXL Thule cargo carrier (not
+                        pictured) negotiable with purchase.<br/>
+                        <span className="text-2xl">$45,500.00</span>
+                        </div>
                         <br/><br/>
 
                         <div>
-                            <h3 className="text-xl font-semibold mb-4 text-center">
-                                WINDOW STICKER
-                            </h3>
                             <span className="text-lg">MECHANICAL</span><br/>
                             &middot; 5.3L V8 ECOTEC3 Engine<br/>
                             &middot; 6SPD automatic transmission<br/>
@@ -102,8 +101,8 @@ export default function Home() {
                             &middot; Sirius XM capable (subject to terms)<br/>
                         </div>
                         <div className="mt-3">
-                            <span className="text-lg">OPTIONS (may replace factory options)
-                            SUN, ENTERTAINMENT, DESTINATION PACKAGE:</span><br/>
+                            <span className="text-lg">OPTIONS (may replace factory options)</span><br/>
+                            &middot; SUN, ENTERTAINMENT, DESTINATION PACKAGE:<br/>
                             &middot; Power sunroof<br/>
                             &middot; Chevrolet information system with navigation<br/>
                             &middot; Rear seat entertainment system<br/>
@@ -134,7 +133,7 @@ export default function Home() {
                             &middot; Automatic active 2-speed transfer case<br/>
                             &middot; Hill descent control<br/>
                             &middot; High capacity air cleaner<br/>
-                            &middot; Black bow-ties, front and rear<br/>
+                            &middot; Black bowties, front and rear<br/>
                             &middot; Z71 Grille, Decal on cluster, pillar and lift gate badge<br/>
                             &middot; Black roof rack<br/>
                             &middot; Seats, 2nd row bucket, power<br/>
