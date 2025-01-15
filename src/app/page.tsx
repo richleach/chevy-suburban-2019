@@ -50,7 +50,7 @@ export default function Home() {
                             &middot; Trailering equipment<br/>
                             &middot; 4 Wheel anti-lock disc brakes<br/>
                             &middot; Transfer case single speed<br/>
-                            &middot; DuraLife brake rotors<br/>
+                            &middot; Duralife brake rotors<br/>
                         </div>
 
                         <div className="mt-3">
@@ -74,7 +74,7 @@ export default function Home() {
                             &middot; Power heated outside mirrors<br/>
                             &middot; Remote keyless entry<br/>
                             &middot; 17” Steel spare tire<br/>
-                            &middot; Power rear lift gate with programmable height setting<br/>
+                            &middot; Power rear liftgate with programmable height setting<br/>
                         </div>
                         <div className="mt-3">
                             <span className="text-lg">INTERIOR</span><br/>
@@ -96,8 +96,7 @@ export default function Home() {
                             &middot; OnStar services capable (subject to terms)<br/>
                             &middot; 4G LTE WiFi hotspot capable (subject to terms)<br/>
                             &middot; Chevrolet information system with 8” diagonal color touchscreen voice recognition
-                            Bluetooth<br/>
-                            &middot; audio streaming Apple Carplay & Android Auto capable, In-vehicle apps capable<br/>
+                            Bluetooth audio streaming Apple Carplay & Android Auto capable, In-vehicle apps capable<br/>
                             &middot; Sirius XM capable (subject to terms)<br/>
                         </div>
                         <div className="mt-3">
@@ -117,7 +116,7 @@ export default function Home() {
                             &middot; Heated second row seats<br/>
                             &middot; Steering column, power tilt and telescopic<br/>
                             &middot; Front fog lamps<br/>
-                            &middot; Hands free lift gate<br/>
+                            &middot; Hands free liftgate<br/>
                             &middot; Front and rear park assist<br/>
                             &middot; Rear cross traffic alert<br/>
                             &middot; Lane change alert with side blind zone alert<br/>
@@ -134,7 +133,7 @@ export default function Home() {
                             &middot; Hill descent control<br/>
                             &middot; High capacity air cleaner<br/>
                             &middot; Black bowties, front and rear<br/>
-                            &middot; Z71 Grille, Decal on cluster, pillar and lift gate badge<br/>
+                            &middot; Z71 Grille, Decal on cluster, pillar and liftgate badge<br/>
                             &middot; Black roof rack<br/>
                             &middot; Seats, 2nd row bucket, power<br/>
                             &middot; Wheel locks<br/>
