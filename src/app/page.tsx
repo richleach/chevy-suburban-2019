@@ -6,13 +6,14 @@ export default function Home() {
             {/* Navbar */}
             <nav className="flex justify-evenly items-center w-full bg-blue-500 text-white p-4 text-center shadow-md">
                 <div>
-                    roxparkdavid@gmail.com
+                    720-425-2327
                 </div>
                 <div>
                     <h1 className="text-xl font-bold">Chevy Suburban 2019</h1>
                 </div>
                 <div>
-                    720-425-2327
+                    roxparkdavid
+                    @gmail.com
                 </div>
             </nav>
 
