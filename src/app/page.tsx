@@ -139,9 +139,7 @@ export default function Home() {
                             &middot; Wheel locks<br/>
                         </div>
                         <br/><br/>
-                        <h3 className="text-xl font-semibold mb-4 text-center">
-                            PHOTOS &amp; SUPPORTING DOCUMENTS
-                        </h3>
+                        
                         <div className="flex items-center justify-center">
                             <Image src="/images/frontLeft.png" width={628} height={467} alt="Front Left"
                                    style={{
