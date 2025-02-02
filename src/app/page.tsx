@@ -35,7 +35,7 @@ export default function Home() {
                         Heated, adjustable mid-row captain chairs<br/>
                         Garage kept, gorgeous inside and out! Needs nothing - XXL Thule cargo carrier (not
                         pictured) negotiable with purchase.<br/>
-                        <span className="text-2xl">$45,500.00</span>
+                        <span className="text-2xl">$42,000.00</span>
                         </div>
                         <br/><br/>
 
